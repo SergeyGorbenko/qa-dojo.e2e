@@ -1,0 +1,9 @@
+First Name,Last Name,Email,Gender,Mobile,Date of Birth,Subjects,Hobbies,Picture,Current Address,State and City
+Олена,Іваненко,olena@test.com,Female,0987654321,12/12/1995,"Math;Physics",Reading,picture1.jpg,"вул. Шевченка, 10","Київ, Київ"
+Максим,Петренко,maksym@test.com,Male,0501234567,01/01/2000,"Biology;Chemistry",Sports,picture2.jpg,"вул. Грушевського, 15","Львів, Львівська"
+Анна,Ковальчук,anna.koval@test.net,Female,0931112223,25/07/1998,"English;History",Music,picture3.png,"вул. Сагайдачного, 22","Одеса, Одеська"
+"",Ковальчук,anna.koval@test.net,Female,0931112223,25/07/1998,"Math",Reading,picture3.png,"вул. Сагайдачного, 22","Львів, Львівська"
+Максим,"",maksym@test.com,Male,0501234567,01/01/2000,"Biology","",picture2.jpg,"вул. Грушевського, 15","Київ, Київ"
+Анна,Ковальчук,anna.koval@,Female,093111,31/02/1998,English,Music,"","вул. Сагайдачного, 22","Одеса, Одеська"
+Олена,Іваненко,"",Female,1234567890,29/02/1997,Chemistry,Sports,"","вул. Шевченка, 10",""
+"",,"olena.test.com",Undefined,"",12/12/1800,"","","","",""
